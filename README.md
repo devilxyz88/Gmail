@@ -17,7 +17,7 @@ For now i have coded a new version in which proxy support has been removed. For 
 3. pip3 install PySocks
 4. pip3 install socksio
 5. pip3 install colorama
-6. git clone https://github.com/Cyber-Dioxide/Gmail-Brute
+6. git clone
 7. cd Gmail-Brute
 8. chmod +x *
 9. python3 crack.py
